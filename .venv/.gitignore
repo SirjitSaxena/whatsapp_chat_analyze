@@ -1,0 +1,28 @@
+# Byte-compiled files and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment and dependencies
+venv/
+env/
+.venv/
+*.egg
+*.egg-info
+dist/
+build/
+*.whl
+
+# Pipenv-related
+Pipfile.lock
+Pipfile
+
+# Poetry-related
+poetry.lock
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm specific files
+.idea/
+*.iml
