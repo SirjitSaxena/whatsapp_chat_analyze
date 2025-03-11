@@ -1,24 +1,25 @@
-WhatsApp Chat Analyzer
+# WhatsApp Chat Analyzer
 
 A web application designed to preprocess WhatsApp chat logs and provide detailed visual insights. The application leverages data science techniques to analyze communication trends and display them through interactive visualizations.
 
-Features
+## Features
 
-Data Preprocessing: Clean and format WhatsApp chat logs for analysis.
+- **Data Preprocessing**: Clean and format WhatsApp chat logs for analysis.
+- **Visual Insights**: 
+  - Activity trends (daily, weekly, monthly).
+  - Most active participants.
+  - Word usage and message frequency.
+  - Emoji usage statistics.
 
-Visual Insights:
-Activity trends (daily, weekly, monthly).
-Most active participants.
-Word usage and message frequency.
-Emoji usage statistics.
+## Tools & Technologies Used
 
-Tools & Technologies Used
-Backend & Analysis: Python, Pandas
-Frontend: Streamlit
-Visualization: Matplotlib
+- **Backend & Analysis**: Python, Pandas
+- **Frontend**: Streamlit
+- **Visualization**: Matplotlib
 
-Watch Video https://www.youtube.com/watch?v=jfb_8idu9W4
+## [Watch Video](https://www.youtube.com/watch?v=jfb_8idu9W4)
 
+## Screenshots
 ![Screenshot 2025-01-27 195256](https://github.com/user-attachments/assets/9bd0c41f-f216-4a7d-ac98-54eff54611b4)
 ![Screenshot 2025-01-27 195306](https://github.com/user-attachments/assets/57eccb4d-b708-48c9-b3a3-24764cb69cdb)
 ![Screenshot 2025-01-27 195312](https://github.com/user-attachments/assets/95a36f5c-6ba6-43ee-8340-ebb617609745)
